@@ -1,2 +1,1 @@
-# Tikli
-Reno.json
+["txteren","bozkurt.hazarr","bozkurt.hazarr","bozkurt.hazarr","bozkurt.hazarr"] 
