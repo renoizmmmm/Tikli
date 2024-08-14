@@ -1,1 +1,1 @@
-["txteren","","bozkurt.hazarr","bozkurt.hazarr","bozkurt.hazarr"] 
+["txteren","","sedatozt1","bozkurt.hazarr","bozkurt.hazarr"] 
